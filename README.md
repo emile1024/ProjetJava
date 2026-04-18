@@ -1,4 +1,4 @@
-Auteur : Emile Nibasumba et Josue Mulumba Mutanda
+Co-auteurs : Emile Nibasumba et Josue Mulumba Mutanda
 
 # ProjetJava
 Programme Java qui gère les étudiants, leurs cours et leurs notes. 
